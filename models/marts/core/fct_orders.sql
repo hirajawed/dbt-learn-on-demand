@@ -16,7 +16,7 @@ order_payment as (
 
     from payment
     group by 1
-
+    
 ),
 
 
